@@ -18,4 +18,4 @@ version: 1.0.0
 
 [Sahil Khursheed](https://github.com/sahilkhursheed)
 
-[Amit Shamra](https://github.com/)
+[Amit Sharma](https://github.com/amitshharma)
